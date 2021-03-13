@@ -1,15 +1,25 @@
-- 👋 Hi, I’m @CarlosPuello
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+[![Header](https://i.imgur.com/cDhu2oP.png "Header")](https://www.linkedin.com/in/carlospuello/)
+<sub>Click banner to view my LinedIn profile.</sub>
+
+- 👀 I’m interested in software development and game development
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on awesome projects with passionate people
+- 📫 How to reach me: carlosdanielpuello@outlook.com
+
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=43a047)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=43a047)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=43a047)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=43a047)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=43a047)
+
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00766c)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=00766c)
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0095a8)
+![](https://img.shields.io/badge/Shell-Terminal-informational?style=flat&logo=windows-terminal&logoColor=white&color=0095a8)
 
 <details>
   <summary>Contribution</summary>
