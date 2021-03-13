@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPuello" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosPuello&repo=github-readme-stats" />
 
 <!---
 CarlosPuello/CarlosPuello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
