@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>Contribution</summary>
 
   <img align="left" alt="CarlosPuello's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosPuello&show_icons=true&hide_border=true" />
 
