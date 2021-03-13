@@ -1,7 +1,7 @@
 
 
 [![Header](https://i.imgur.com/cDhu2oP.png "Header")](https://www.linkedin.com/in/carlospuello/)
-<sub>Click banner to view my LinedIn profile.</sub>
+<sub>Click banner to view my LinkedIn profile.</sub>
 
 - 👀 I’m interested in software development and game development
 - 🌱 I’m currently learning Laravel
