@@ -4,7 +4,7 @@
 <sub>Click banner to view my LinkedIn profile.</sub>
 
 - 👀 I’m interested in software development and game development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently working as an Angular developer
 - 💞️ I’m looking to collaborate on awesome projects with passionate people
 - 📫 How to reach me: carlosdanielpuello@outlook.com
 
